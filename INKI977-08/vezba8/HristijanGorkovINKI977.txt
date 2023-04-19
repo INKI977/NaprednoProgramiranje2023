@@ -1,0 +1,21 @@
+1.a  
+2.c  
+3.b  
+4.b  
+5.a  
+6.b  
+7.a  
+8.c  
+9.a c
+10.a c
+11.a b
+12.a c
+
+Ime: Hristijan
+Prezime: Gorkov
+Indeks: INKI977
+Vreme na start: Wed Apr 19 15:00:11 2023
+
+Vreme na zavrshuvanje: 15:0:57
+Osvoeni poeni: 28.5
+Ocenka: 6

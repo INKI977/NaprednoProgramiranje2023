@@ -1,0 +1,21 @@
+1.a  
+2.c  
+3.b  
+4.c  
+5.c  
+6.a  
+7.b  
+8.c  
+9.a c
+10.b c
+11.a b
+12.a c
+
+Ime: Ile
+Prezime: Iliev
+Indeks: INKI666
+Vreme na start: Wed Apr 19 15:01:27 2023
+
+Vreme na zavrshuvanje: 15:2:22
+Osvoeni poeni: 47
+Ocenka: 10

@@ -1,0 +1,21 @@
+1.c  
+2.c  
+3.c  
+4.c  
+5.a  
+6.c  
+7.b  
+8.b  
+9.a c
+10.c b
+11.a c
+12.a b
+
+Ime: Pece
+Prezime: Petrov
+Indeks: INKI111
+Vreme na start: Wed Apr 19 15:02:41 2023
+
+Vreme na zavrshuvanje: 15:3:7
+Osvoeni poeni: 25
+Ocenka: 6

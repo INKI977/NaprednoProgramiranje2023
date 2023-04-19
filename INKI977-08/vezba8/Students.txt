@@ -1,0 +1,5 @@
+no	     Ime	Prezime	Index
+
+1.15:0:11   Hristijan	Gorkov	977
+3.15:1:27   Ile		Iliev	666
+4.15:2:41   Pece	Petrov	111

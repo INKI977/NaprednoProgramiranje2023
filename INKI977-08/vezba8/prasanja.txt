@@ -1,0 +1,13 @@
+1.Koj se osnovni tipovi na podatoci vo C++? ; a) char,string,bool,int,float ; b) funkcija,klasa,struktura ; c)datoteki
+2.Koj rezerviran zbor se koristi za deklaracija na celobroen tip na podadok? ; a)float ; b)char ; c)int
+3.Vo koja biblioteka se naogja funkcijata time()? ; a)vector ; b)ctime ; c)math.h
+4.Kako se narekuva pointerot koj nema daden tip na podatok? ; a)int pointer ; b)NULL pointer ; c)void pointer
+5.Kako se narekuva pointerot koj ne pokazhuva na nishto pri deklariranje? ; a)int pointer ; b)void pointer ;c)NULL pointer
+6.Komandata ofstream deklarira: ; a)izlezna datoteka ; b)vlezna datoteka ; c)vlezno-izlezna datoteka
+7.Komandata ifstream deklarira: ; a)izlezna datoteka ; b)vleazna datoteka ; c)vlezno-izlezna datoteka
+8.Komandata fstream deklarira: ; a)izlezna datoteka ; b)vlezna datoteka ; c)vlezno-izlezna datoteka
+9.Koj od slednite komandi se ciklusi? ; a)while ; b)#include ; c)for
+10.Koj od slednite komandi ovozmozhuvaat granenje? ; a)struct ; b)if ; c)switch
+11.Koj od slednite komandi mozhat da se koristat za inkrementiranje na promenliva? ; a)x++ ; b)x+=1 ; c)x*=x
+12.Koj od slednite datoteki ovozmozhuva pristap do osnovni matematichki f-cii? ; a)cmath ; b)iostream ; c)math.h
+ 

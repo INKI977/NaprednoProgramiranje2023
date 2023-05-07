@@ -1,0 +1,21 @@
+1.a  
+2.c  
+3.b  
+4.c  
+5.c  
+6.b  
+7.a  
+8.c  
+9.a c
+10.b c
+11.a b
+12.a c
+
+Ime: Petar
+Prezime: Nikoloski
+Indeks: INKI774
+Vreme na start: Sat May 06 22:14:13 2023
+
+Vreme na zavrshuvanje: 22:15:19
+Osvoeni poeni: 41
+Ocenka: 9

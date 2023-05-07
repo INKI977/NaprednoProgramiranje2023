@@ -1,0 +1,3 @@
+﻿  bonus_igra.cpp
+C:\Users\Hristijan\Desktop\vezba10\bonus_igra\bonus_igra.cpp(134,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bonus_igra.vcxproj -> C:\Users\Hristijan\Desktop\vezba10\bonus_igra\x64\Debug\bonus_igra.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bonus_igra", "bonus_igra.vcxproj", "{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Debug|x64.ActiveCfg = Debug|x64
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Debug|x64.Build.0 = Debug|x64
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Debug|x86.Build.0 = Debug|Win32
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Release|x64.ActiveCfg = Release|x64
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Release|x64.Build.0 = Release|x64
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Release|x86.ActiveCfg = Release|Win32
+		{901FF0B1-359A-4E80-86BC-E25A69B0BC7E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4094D2-4E2D-45D7-AB6E-6C87C99FE3FD}
+	EndGlobalSection
+EndGlobal

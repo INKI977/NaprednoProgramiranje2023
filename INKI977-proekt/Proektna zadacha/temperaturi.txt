@@ -1,0 +1,10 @@
+Kocani	denska temperatura 28 C	vecherna temperatura 10 C
+Veles	denska temperatura 26 C	vecherna temperatura 11 C
+Skopje	denska temperatura 26 C	vecherna temperatura 11 C
+Kicevo	denska temperatura 26 C	vecherna temperatura 10 C
+Shtip	denska temperatura 26 C	vecherna temperatura 10 C
+Tetovo	denska temperatura 25 C	vecherna temperatura 12 C
+Prilep	denska temperatura 24 C	vecherna temperatura 10 C
+Bitola	denska temperatura 22 C	vecherna temperatura 9 C
+Ohrid	denska temperatura 22 C	vecherna temperatura 8 C
+Debar	denska temperatura 18 C	vecherna temperatura 5 C

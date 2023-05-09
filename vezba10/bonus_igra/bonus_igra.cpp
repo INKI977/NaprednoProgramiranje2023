@@ -95,9 +95,6 @@ public:
 		else
 			return false;
 
-
-
-
 	}
 	void ai_input()
 	{
@@ -120,12 +117,6 @@ public:
 private:
 	izbor x;
 	bool win = false;
-};
-
-class AI :  Player
-{
-	public:
-		
 };
 
 
@@ -182,13 +173,13 @@ int main()
 			
 			system("cls");
 			
-			if (p1.checkwin() && i > 4)
+			if (p1.checkwin() && i > 3)
 			{
 				cout << "Pobedi " << p1.ime << endl;
 				a << p1.ime << " vs " << p2.ime << " pobedi: " << p1.ime<< "\n";
 				break;
 			}
-			else if (p2.checkwin() && i > 4)
+			else if (p2.checkwin() && i > 3)
 			{
 				cout << "Pobedi " << p2.ime << endl;
 				a << p1.ime << " vs " << p2.ime << " pobedi: " << p2.ime << "\n";
@@ -222,13 +213,13 @@ int main()
 				p2.ai_input();
 			}
 
-			if (p1.checkwin() && i > 5)
+			if (p1.checkwin() && i > 3)
 			{
 				cout << "Pobedi " << p1.ime << endl;
 				a << p1.ime << " vs " << p2.ime << " pobedi: " << p1.ime << "\n";
 				break;
 			}
-			else if (p2.checkwin() && i > 5)
+			else if (p2.checkwin() && i > 3)
 			{
 				cout << "Pobedi " << p2.ime << endl;
 				a << p1.ime << " vs " << p2.ime << " pobedi: " << p2.ime << "\n";
